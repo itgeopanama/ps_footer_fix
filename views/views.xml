@@ -1,0 +1,17 @@
+<odoo>
+    <data>
+
+<!--        <template id="ks_footer_layout" inherit_id="website.layout_footer_copyright">-->
+<!--            <xpath expr="//div[@t-ignore='true']" position="replace">-->
+<!--            </xpath>-->
+<!--            <xpath expr="//div[@class='pull-left text-muted']" position="replace">-->
+<!--            </xpath>-->
+<!--        </template>-->
+
+<!--        <template id="ks_menu_layout" inherit_id="web.menu_secondary">-->
+<!--            <xpath expr="//div[@class='o_sub_menu_footer']" position="replace">-->
+<!--            </xpath>-->
+<!--        </template>-->
+
+    </data>
+</odoo>
